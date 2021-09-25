@@ -1,4 +1,9 @@
 discord.py
-youtube-dl
-ffmpeg
+discord
 pynacl
+attrs
+chardet
+aiohttp
+cffi
+six
+youtube-dl
